@@ -30,7 +30,7 @@ A simple calculator built with **C# (WinForms)** that supports basic arithmetic 
 ---
 
 ## 📦 Download
-➡ [Download Simple Calculator v1.0](https://github.com/Umutalb/SimpleCalculatorApp/releases/latest)
+➡ [Download Simple Calculator v1.0](https://github.com/Umutalb/SimpleCalculatorApp/releases/tag/v1.0.1)
 
 
 ---
