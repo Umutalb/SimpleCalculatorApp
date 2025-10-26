@@ -29,6 +29,12 @@ A simple calculator built with **C# (WinForms)** that supports basic arithmetic 
 
 ---
 
+## 📦 Download
+➡ [Download Simple Calculator v1.0](https://github.com/Umutalb/SimpleCalculatorApp/releases/latest)
+
+
+---
+
 ## 👨‍💻 Developed by
 **Umut Albayrak**  
 [GitHub Profile](https://github.com/Umutalb)
