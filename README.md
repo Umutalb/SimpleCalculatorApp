@@ -38,4 +38,5 @@ A simple calculator built with **C# (WinForms)** that supports basic arithmetic 
 ## 👨‍💻 Developed by
 **Umut Albayrak**  
 [GitHub Profile](https://github.com/Umutalb)
+---
 [LinkedIn Profile](https://linkedin.com/in/umut-albayrak24)
